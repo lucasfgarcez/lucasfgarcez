@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**lucasfgarcez/lucasfgarcez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional em transição para a área de tecnologia, focado em **Python, automação e análise de dados**.  
+Desenvolvo soluções simples para problemas reais usando programação.
 
-Here are some ideas to get you started:
+Atualmente trabalho no setor público e utilizo **Python e Excel** para automatizar tarefas, analisar dados e melhorar processos internos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- Python
+- Pandas
+- Selenium
+- Excel
+- Git / GitHub
+- HTML / CSS
+- Django (aprendendo)
+
+---
+
+## 📊 Áreas de Interesse
+
+- Automação de processos
+- Análise de dados
+- Engenharia de dados
+- Backend com Python
+- Ferramentas internas para empresas
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Automação de coleta de dados com Python e Selenium  
+🔹 Análise de dados com Pandas  
+🔹 Scripts para automação de tarefas administrativas  
+🔹 Desenvolvimento de aplicações web simples com Django
+
+---
+
+## 📈 Objetivo
+
+Construir soluções úteis com Python e desenvolver experiência prática em **dados, automação e backend**.
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/lucasfgarcez/  
+Email: lucasfgarcez@hotmail.com
